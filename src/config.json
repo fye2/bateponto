@@ -1,0 +1,14 @@
+{
+    "pointVoiceChannelsId": [
+        "1132602551594922025",
+        "CALL 2 (CASO QUEIRA MAIS CALL VAI ADICIONADO..."
+      ],
+    "pointAdminRolesId": ["1078113995174723607"],
+    "buttonsPointIds": [
+        "open-point-button",
+        "close-point-button",
+        "show-hours-point-button"
+    ],
+    "pointLogChannel": "1132602519852425487",
+    "adminLogChannel": "1132602532540186715"
+}
